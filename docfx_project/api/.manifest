@@ -1,0 +1,15 @@
+{
+  "LibrarySample": "LibrarySample.yml",
+  "LibrarySample.SampleClass": "LibrarySample.SampleClass.yml",
+  "LibrarySample.SampleClass.#ctor": "LibrarySample.SampleClass.yml",
+  "LibrarySample.SampleClass.SampleBool": "LibrarySample.SampleClass.yml",
+  "LibrarySample.SampleClass.SampleInt": "LibrarySample.SampleClass.yml",
+  "LibrarySample.SampleClass.SampleMethod(System.Int32,System.String)": "LibrarySample.SampleClass.yml",
+  "LibrarySample.SampleClass.SampleObject": "LibrarySample.SampleClass.yml",
+  "LibrarySample.SampleClass.SampleOtherMethod": "LibrarySample.SampleClass.yml",
+  "LibrarySample.SampleClass.SampleString": "LibrarySample.SampleClass.yml",
+  "TestSample": "TestSample.yml",
+  "TestSample.SampleTestClass": "TestSample.SampleTestClass.yml",
+  "TestSample.SampleTestClass.SampleTestOne": "TestSample.SampleTestClass.yml",
+  "TestSample.SampleTestClass.SampleTestTwo(System.Int32,System.Int32)": "TestSample.SampleTestClass.yml"
+}
